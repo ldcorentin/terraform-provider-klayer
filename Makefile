@@ -1,6 +1,6 @@
 HOSTNAME=local.com
 NAMESPACE=ldcorentin
-NAME=klayers
+NAME=klayer
 BINARY=terraform-provider-${NAME}
 VERSION=1.0.0
 OS_ARCH=darwin_amd64
@@ -11,7 +11,7 @@ DOCKER_CMD = $(shell which docker)
 default: build-install
 
 init:
-	go mod init terraform-provider-klayers
+	go mod init terraform-provider-klayer
 	go mod tidy
 	
 build:
