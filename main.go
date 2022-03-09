@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
-	"terraform-provider-klayers/klayers"
+	"terraform-provider-klayer/klayers"
 )
 
 // Go entry point function is main.go.
