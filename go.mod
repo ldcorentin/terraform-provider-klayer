@@ -1,4 +1,4 @@
-module terraform-provider-klayers
+module terraform-provider-klayer
 
 go 1.16
 
