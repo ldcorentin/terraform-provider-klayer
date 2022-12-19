@@ -1,6 +1,6 @@
 # klayers_package_latest_version Data Source
 
-Use this data source to get the access to the last AWS arn of your (Klayers lambda layer)[https://github.com/keithrozario/Klayers].
+Use this data source to get the access to the last AWS arn of your [Klayers lambda layer](https://github.com/keithrozario/Klayers).
 
 ## Example Usage
 ```hcl
