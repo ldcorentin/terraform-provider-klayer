@@ -1,4 +1,4 @@
-# [terraform-provider-klayers](https://registry.terraform.io/providers/ldcorentin/klayers/latest)
+# [terraform-provider-klayer](https://registry.terraform.io/providers/ldcorentin/klayer/latest)
 
 A terraform provider to manage your klayers (https://github.com/keithrozario/Klayers).
 
