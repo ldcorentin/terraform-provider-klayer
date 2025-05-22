@@ -6,7 +6,7 @@ A terraform provider to manage your klayers (https://github.com/keithrozario/Kla
 ```terraform
 terraform {
   required_providers {
-    klayer = {
+    klayers = {
       version = "~> 1.0.0"
       source  = "ldcorentin/klayer"
     }
